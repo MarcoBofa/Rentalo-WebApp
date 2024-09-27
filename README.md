@@ -1,4 +1,4 @@
-# Benvenuti su Rentalo! - [Rentalo](https://rentaloo.net)
+# Benvenuti su [Rentalo](https://rentaloo.net)!
 
 **Rentalo** è una piattaforma innovativa creata per facilitare il noleggio di macchinari professionali. Il nostro obiettivo è semplificare il processo di noleggio e la gestione del parco macchine attraverso una piattaforma web accessibile ovunque e in qualsiasi momento.
 
